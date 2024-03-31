@@ -1,7 +1,11 @@
 # Digital Image Pre-processing
 
 ## Overview
-This repository contains a Jupyter notebook `digital-image-pre-processing.ipynb` for digital image pre-processing, specifically designed for MRI images. The notebook demonstrates how to load MRI slices, print and save their metadata, and visualize and save the slices.
+This repository contains a Jupyter notebook `digital-image-pre-processing.ipynb` for digital image pre-processing, specifically designed for:
+
+1. Remove the pepper noise from chemical pictures;
+2. Remove speckle noise from medical pictures;
+3. Visualize MRI data in DICOM files.
 
 ## Prerequisites
 - Google Colab account
