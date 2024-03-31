@@ -25,3 +25,8 @@ This repository contains a Jupyter notebook `digital-image-pre-processing.ipynb`
 
 3. **Verify Output:**
    Check the output directories in your Google Drive to view the processed MRI images and metadata.
+   
+## Visualization and Explanations
+
+For detailed visualizations and explanations of the results and outputs for each question, please refer to the `digital_image_pre_processing.ipynb` file. This Jupyter notebook contains all the necessary interpretations and visual representations to understand the data processing steps and outcomes.
+
