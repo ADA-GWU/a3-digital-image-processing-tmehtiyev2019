@@ -1,0 +1,57 @@
+Dataset.file_meta -------------------------------
+(0002, 0010) Transfer Syntax UID                 UI: Implicit VR Little Endian
+-------------------------------------------------
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0008) Image Type                          CS: ['DERIVED', 'SECONDARY']
+(0008, 0016) SOP Class UID                       UI: MR Image Storage
+(0008, 0018) SOP Instance UID                    UI: 1.2.826.0.1.3680043.8.498.15104561700374424891081947119487744795
+(0008, 0050) Accession Number                    SH: '00008'
+(0008, 0060) Modality                            CS: 'MR'
+(0008, 103e) Series Description                  LO: 'T1w'
+(0010, 0010) Patient's Name                      PN: '00008'
+(0010, 0020) Patient ID                          LO: '00008'
+(0018, 0023) MR Acquisition Type                 CS: '2D'
+(0018, 0050) Slice Thickness                     DS: '5.0'
+(0018, 0081) Echo Time                           DS: None
+(0018, 0083) Number of Averages                  DS: '2.0'
+(0018, 0084) Imaging Frequency                   DS: '127.759852'
+(0018, 0085) Imaged Nucleus                      SH: '1H'
+(0018, 0086) Echo Number(s)                      IS: '1'
+(0018, 0087) Magnetic Field Strength             DS: '3.0'
+(0018, 0088) Spacing Between Slices              DS: '1.0'
+(0018, 0091) Echo Train Length                   IS: '1'
+(0018, 0093) Percent Sampling                    DS: '100.0'
+(0018, 0094) Percent Phase Field of View         DS: '80.0'
+(0018, 0095) Pixel Bandwidth                     DS: '162.773'
+(0018, 1094) Trigger Window                      IS: '0'
+(0018, 1100) Reconstruction Diameter             DS: '230.0'
+(0018, 1310) Acquisition Matrix                  US: [0, 384, 224, 0]
+(0018, 1312) In-plane Phase Encoding Direction   CS: 'ROW'
+(0018, 1314) Flip Angle                          DS: '90.0'
+(0018, 1316) SAR                                 DS: '0.586425'
+(0018, 5100) Patient Position                    CS: 'HFS'
+(0020, 000d) Study Instance UID                  UI: 1.2.826.0.1.3680043.8.498.12703311983669326090133525868855770228
+(0020, 000e) Series Instance UID                 UI: 1.2.826.0.1.3680043.8.498.35546324633307446370235238616216486386
+(0020, 0011) Series Number                       IS: '4'
+(0020, 0013) Instance Number                     IS: '1'
+(0020, 0032) Image Position (Patient)            DS: [-105.491, -109.272, -31.8627]
+(0020, 0037) Image Orientation (Patient)         DS: [0.999463, 0.0145905, 0.029336, -0.0160642, 0.998587, 0.0506459]
+(0020, 0060) Laterality                          CS: ''
+(0020, 1040) Position Reference Indicator        LO: ''
+(0020, 1041) Slice Location                      DS: '-22.68276405'
+(0020, 9057) In-Stack Position Number            UL: 1
+(0028, 0002) Samples per Pixel                   US: 1
+(0028, 0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028, 0010) Rows                                US: 512
+(0028, 0011) Columns                             US: 512
+(0028, 0030) Pixel Spacing                       DS: [0.449200004339218, 0.449200004339218]
+(0028, 0100) Bits Allocated                      US: 16
+(0028, 0101) Bits Stored                         US: 16
+(0028, 0102) High Bit                            US: 15
+(0028, 0103) Pixel Representation                US: 1
+(0028, 1050) Window Center                       DS: '3862.0'
+(0028, 1051) Window Width                        DS: '7725.0'
+(0028, 1052) Rescale Intercept                   DS: '0.0'
+(0028, 1053) Rescale Slope                       DS: '1.0'
+(0028, 1054) Rescale Type                        LO: 'US'
+(7fe0, 0010) Pixel Data                          OW: Array of 524288 elements
