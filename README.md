@@ -1,21 +1,27 @@
 # Digital Image Pre-processing
 
-This repository contains a Jupyter notebook for digital image pre-processing, specifically for MRI images.
+## Overview
+This repository contains a Jupyter notebook (`digital-image-pre-processing.ipynb`) for digital image pre-processing, specifically designed for MRI images. The notebook demonstrates how to load MRI slices, print and save their metadata, and visualize and save the slices.
 
-## Getting Started
+## Prerequisites
+- Google Colab account
+- Google Drive with sufficient storage space
 
-Follow these steps to get started with the notebook:
+## Installation
 
 1. **Clone the Repository:**
-   - Clone this repository to your local machine.
-   - Upload the cloned repository to your Google Drive in the following directory: `/content/drive/My Drive/`.
+   Clone this repository to your local machine using `git clone https://github.com/your-username/your-repo-name.git`.
+   
+2. **Upload to Google Drive:**
+   Upload the cloned repository folder to your Google Drive in the directory `/content/drive/My Drive/`.
 
-2. **Download the Notebook:**
-   - Download the `digital-image-pre-processing.ipynb` file from the repository.
+## Usage
 
-3. **Run the Notebook:**
-   - Open the notebook in Google Colab.
-   - Run the cells in the notebook.
-   - The code will mount your Google Drive, and you will need to give access to the folder where you have the clone of this repository.
+1. **Open the Notebook:**
+   Navigate to Google Colab and open the `digital-image-pre-processing.ipynb` file from the folder you uploaded to Google Drive.
 
-Make sure you have the necessary MRI images in the specified directory structure within your Google Drive for the code to process them correctly.
+2. **Run the Notebook:**
+   Execute the cells in the notebook. The first cell will mount your Google Drive, and you'll need to authorize access to the folder where the repository is located.
+
+3. **Verify Output:**
+   Check the output directories in your Google Drive to view the processed MRI images and metadata.
