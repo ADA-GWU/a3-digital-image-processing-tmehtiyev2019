@@ -10,7 +10,7 @@ This repository contains a Jupyter notebook (`digital-image-pre-processing.ipynb
 ## Installation
 
 1. **Clone the Repository:**
-   Clone this repository to your local machine using `git clone https://github.com/your-username/your-repo-name.git`.
+   Clone this repository to your local machine using `git clone https://github.com/ADA-GWU/a3-digital-image-processing-tmehtiyev2019.git`.
    
 2. **Upload to Google Drive:**
    Upload the cloned repository folder to your Google Drive in the directory `/content/drive/My Drive/`.
