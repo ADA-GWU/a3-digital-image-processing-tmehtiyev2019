@@ -49,7 +49,7 @@ This repository is organized into several directories for input and output data,
 #### Noisy Images
 
 `/input-pictures/noisy/` - Contains two subcategories with input images for noise reduction:
-- `chemical` - Images with chemical noise
+- `chemical` - Images with pepper noise
 - `speckle` - Images with speckle noise
 
 ### Output Pictures
