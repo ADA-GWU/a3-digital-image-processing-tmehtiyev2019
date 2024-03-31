@@ -7,6 +7,10 @@ This repository contains a Jupyter notebook `digital-image-pre-processing.ipynb`
 2. Remove speckle noise from medical pictures;
 3. Visualize MRI data in DICOM files.
 
+
+The `digital-image-pre-processing.ipynb` file is self-contained and contains all the necessary interpretations and visual representations to understand the data processing steps and outcomes. To reproduce the results of this work, please follow the below steps carefully.
+
+
 ## Prerequisites
 - Google Colab account
 - Google Drive with sufficient storage space
@@ -30,9 +34,7 @@ This repository contains a Jupyter notebook `digital-image-pre-processing.ipynb`
 3. **Verify Output:**
    Check the output directories in your Google Drive to view the processed MRI images and metadata.
    
-## Visualization and Explanations
 
-For detailed visualizations and explanations of the results and outputs for each question, please refer to the `digital_image_pre_processing.ipynb` file. This Jupyter notebook contains all the necessary interpretations and visual representations to understand the data processing steps and outcomes.
 
 ## Project Repository Structure
 
